@@ -1,14 +1,14 @@
 {
     "commands": [
         {
-            "question":"hello!",
-            "type":"voice",
-            "response":"hey"
+            "question": "hello!",
+            "type": "voice",
+            "response": "hey"
         },
         {
-            "question":"what are you?",
-            "type":"voice",
-            "response":"Im saarathi,voice assistance"
+            "question": "what are you?",
+            "type": "voice",
+            "response": "I am sara,voice assistance"
         },
         {
             "question": "Play some upbeat music.",
@@ -39,12 +39,12 @@
             "question": "Read me today's top headlines from the New York Times.",
             "type": "voice",
             "response": "Fetching today's top headlines from the New York Times. Please give me a moment."
-        }, 
+        },
         {
             "question": "Read me a famous car-related quote.",
             "type": "voice",
             "response": "Certainly, here's a famous car quote: 'A dream without ambition is like a car without gas... you're not going anywhere.' - Sean Hampton"
-        },  
+        },
         {
             "question": "What's the latest in car technology?",
             "type": "voice",
@@ -161,14 +161,14 @@
             "response": "Car camping has a rich history dating back to the early 20th century when people began using automobiles for recreational travel. The allure of open road adventures lies in the freedom to explore new places and discover the unexpected."
         },
         {
-            "question":"all over the world which is the largest highway",
-            "type":"voice",
-            "response":"The Pan American highway connecting North America to South America in 48,000 kilometres is the longest highway in the world."
+            "question": "all over the world which is the largest highway",
+            "type": "voice",
+            "response": "The Pan American highway connecting North America to South America in 48,000 kilometres is the longest highway in the world."
         },
         {
-            "question":"Which is the oldest highway in the world?",
-            "type":"voice",
-            "response":"The Lake Moeris Quarry Road, in the Faiyum District of Egypt, is the oldest road in the world of which a considerable part of its original pavement is still preserved."
+            "question": "Which is the oldest highway in the world?",
+            "type": "voice",
+            "response": "The Lake Moeris Quarry Road, in the Faiyum District of Egypt, is the oldest road in the world of which a considerable part of its original pavement is still preserved."
         },
         {
             "question": "Share an interesting fact about famous long-distance road races.",
@@ -402,50 +402,48 @@
         },
         {
             "question": "Translate 'hello' into French.",
-            "type":"voice",
+            "type": "voice",
             "response": "The translation of 'hello' into French is 'bonjour'."
         },
         {
             "question": "Give me a fun fact about space.",
-            "type":"voice",
+            "type": "voice",
             "response": "Did you know that a day on Venus is longer than a year on Venus? It rotates very slowly."
         },
         {
-            "question":"Which city is known as the Pink City?",
-            "type":"voice",
-            "response":"Jaipur, in the state of Rajasthan, is known as the 'Pink City' and is famous for its historic forts and palaces."
+            "question": "Which city is known as the Pink City?",
+            "type": "voice",
+            "response": "Jaipur, in the state of Rajasthan, is known as the 'Pink City' and is famous for its historic forts and palaces."
         },
         {
-            "question":"Where can I witness the Ganga Aarti on the banks of the Ganges River?",
-            "type":"voice",
-            "response":"You can witness the Ganga Aarti in Varanasi, one of the oldest and holiest cities in India."
+            "question": "Where can I witness the Ganga Aarti on the banks of the Ganges River?",
+            "type": "voice",
+            "response": "You can witness the Ganga Aarti in Varanasi, one of the oldest and holiest cities in India."
         },
         {
-            "question":"Which state is known for its vibrant and colorful festivals, especially Dussehra?",
-            "type":"voice",
-            "response":"Mysore, in the state of Karnataka, is known for its vibrant and colorful Dussehra festival."
+            "question": "Which state is known for its vibrant and colorful festivals, especially Dussehra?",
+            "type": "voice",
+            "response": "Mysore, in the state of Karnataka, is known for its vibrant and colorful Dussehra festival."
         },
         {
             "question": "Where can I experience the golden glow of the Golden Temple?",
-            "type":"voice",
-            "response":"The Golden Temple is located in Amritsar, Punjab, and it radiates its golden glow over the sacred pool."
+            "type": "voice",
+            "response": "The Golden Temple is located in Amritsar, Punjab, and it radiates its golden glow over the sacred pool."
         },
         {
             "question": "Which Indian city is known for its bustling film industry, Bollywood?",
-            "type":"voice",
-            "response":"Mumbai, often called the 'City of Dreams,' is famous for its Bollywood film industry."
+            "type": "voice",
+            "response": "Mumbai, often called the 'City of Dreams,' is famous for its Bollywood film industry."
         },
         {
             "question": "Where can I explore the artistic heritage and Renaissance history?",
-            "type":"voice",
+            "type": "voice",
             "response": "Florence, Italy, is renowned for its artistic heritage and Renaissance history, with treasures like the Uffizi Gallery."
         },
         {
-            "question":"Which temple in Odisha is dedicated to the Sun God and is known for its stunning chariot-shaped architecture?",
-            "type":"voice",
+            "question": "Which temple in Odisha is dedicated to the Sun God and is known for its stunning chariot-shaped architecture?",
+            "type": "voice",
             "response": "The Konark Sun Temple in Odisha is dedicated to the Sun God and is known for its stunning chariot-shaped architecture."
-        }    
+        }
     ]
 }
-
-

@@ -34,7 +34,7 @@ def main():
         porcupine = pvporcupine.create(access_key="PnNnuG2liwLvY7MgKXtLfK8HrTkC0vHC/7vz+q5Obxe7dkyuJi2A+w==",
                                        keywords=["bumblebee", "hey sara"],
                                        keyword_paths=['BumbleBee_en_windows_v2_2_0.ppn',
-                                                      'hey-SARA_en_windows_v2_2_0.ppn'])
+                                                      'Hey-Sara_en_windows_v3_0_0.ppn'])
 
         pa = pyaudio.PyAudio()
 

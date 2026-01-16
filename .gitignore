@@ -1,0 +1,33 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.idea/
+.vscode/
+
+# Project Specific
+driver-drowsiness - Copy/.idea/
+driver-drowsiness - Copy/__pycache__/
+driver-drowsiness - Copy/snapshots/
+driver-drowsiness - Copy/debug_recording.wav
+driver-drowsiness - Copy/response.mp3
+driver-drowsiness - Copy/*.mp4
+driver-drowsiness - Copy/*.dat
+
+# Large Files
+*.mp4
+*.dat
+*.wav
+*.mp3
+*.pptx
+*.txt
+!requirements.txt
+!Project_Report_Information.md
+!SETUP_GUIDE.md
